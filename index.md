@@ -317,9 +317,9 @@ BUDGET FORMULATION.—The Director of the Office of Management and Budget shall 
 
 ### Organization and Workforce
 
-##### CIO approves new bureau CIOs
+##### CIO approves bureau CIOs
 
- - M1. *CIO Role/Responsibility*: CIO approves new bureau CIOs. The CIO shall be involved in the recruitment and shall approve the selection of any new bureau CIO (includes bureau leadership with CIO duties but not title—see definitions).
+ - M1. *CIO Role/Responsibility*: CIO approves bureau CIOs. The CIO shall approve the selection of any bureau CIO (includes bureau leadership with CIO duties but not title—see definitions). The CIO shall also be involved in the recruitment and shall approve the selection of any new bureau CIO.
  - *Statutory Language*: PERSONNEL-RELATED AUTHORITY.—Notwithstanding any other provision of law, for each covered agency … the Chief Information Officer of the covered agency shall approve the appointment of any other employee with the title of Chief Information Officer, or who functions in the capacity of a Chief Information Officer, for any component organization within the covered agency. 40 U.S.C. 11319 (b)(2)
 
 ##### CIO role in ongoing bureau CIOs’ evaluations
